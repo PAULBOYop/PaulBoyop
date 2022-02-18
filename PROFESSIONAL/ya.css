@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap'); */
+nav ul{
+    display: flex;
+   list-style: none;
+   margin-left: px;
+background-color: transparent;
+}
+nav ul li{
+    padding-left: 34px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-top: 10px;
+    cursor: pointer;
+ font-family: 'Akaya Telivigala', cursive;
+ font-family: 'Akaya Telivigala', cursive;
+ list-style: none;
+}
+.mk{
+   margin-left: 39px;
+   margin-right: 25px;
+   /* padding-right: 25px; */
+   border-radius: 10px;
+   border-color: none;
+   border-style: none;
+   background-color:rgb(119, 0, 255) ;
+   height: 34px;
+   width: 90px;
+   color: aliceblue;
+   font-style: unset;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   cursor: pointer;
+   margin-top: 8px;
+
+}
+.mj{
+    margin-right: 15px;
+    border-radius: 10px ;
+    border-style: none;
+   background-color:rgb(119, 0, 255) ;
+   color: azure;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   width: 90px;
+   height: 35px;
+   cursor: pointer;
+   margin-top: 8px;
+
+
+}
+.mk:hover{
+    background-color: rgb(188, 20, 255);
+    transition: .6s;
+}
+.mj:hover{
+    background-color: rgb(188, 20, 255);
+    transition: .5s;
+    
+}
+.mc{
+    margin-right: 200px;
+    text-align: left;
+    cursor: pointer;
+    /* align-items: 0 34px; */
+    /* font-weight: 900; */
+    font-size: 23px;
+    margin-bottom: 8px;
+ font-family: 'Akaya Telivigala', cursive ;
+}
+.lo{
+    color: red;
+    cursor: pointer;
+}
+.ui:hover{
+    color: rgb(146, 0, 231);
+   
+}
+nav ul li:hover{
+    color: red;
+    transform:matrix3d(45vh);
+    transition: .5s;
+}
+.io{
+    color: white;
+    text-underline-position: none;
+    text-decoration: none;
+}
+.io:hover{
+    /* color: rgb(255, 0, 0); */
+    transition: 0.6s;
+
+}
+.bc{
+
+}
+.me{
+    text-decoration: none;
+    color: rgb(97, 95, 95);
+    text-underline-position: none;
+    transition: 0.5;
+}
+.me:hover{
+    color: red;
+}
+.yu{
+    background-color: rgb(133, 4, 255);
+    width: 40%;
+    color: white;
+    border-radius: 4px;
+    padding-left: 45px 0;
+    margin-top: 12px;
+    margin-left: 60%;
+    height: 45px;
+} 
+
+.op{
+    margin-left: 34px;
+    padding-left: 45px 0;
+margin-left: 50%;
+height: 45px;
+}
+.we{
+    margin-left: 34px;
+    padding-left: 45px 0;
+margin-left: 46%;
+font-size: 20px;
+}
+.yu:hover{
+    background-color: rgb(97, 0, 187);
+}
+.lp{
+    padding-left: 45px 0;
+    margin-top: 12px;
+    margin-left: 65%;
+    text-transform:calc(23);
+    text-decoration:underline;
+font-family: 'Akaya Telivigala';
+}
+.lp:hover{
+color: rgb(241, 101, 7);
